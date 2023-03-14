@@ -1,0 +1,5 @@
+print("Ghaisan Nabiel Alfian Arsyad")
+print("I0322050")
+print("Jakarta")
+print("Di sekitar rumah saya terdapat sekolah, kawasan perkantoran, dan pusat perbelanjaan")
+print("Harapan saya setelah lulus dari Teknik Industri adalah dapat menerapkan ilmu yang sudah saya pelajari untuk berpartisipasi dalam memajukan sektor industri di Indonesia")
