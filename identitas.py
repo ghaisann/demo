@@ -1,3 +1,3 @@
-print("nama saya ghaisan")
-print("ini ghaisan")
+print("nama saya Licha")
+print("ini Licha")
 print("tes")
